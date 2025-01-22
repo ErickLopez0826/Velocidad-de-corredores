@@ -1,0 +1,14 @@
+C:\Users\erick\OneDrive\Programas onedrive\Velocidad de corredores\bin\Debug\net9.0\Velocidad de corredores.exe
+C:\Users\erick\OneDrive\Programas onedrive\Velocidad de corredores\bin\Debug\net9.0\Velocidad de corredores.deps.json
+C:\Users\erick\OneDrive\Programas onedrive\Velocidad de corredores\bin\Debug\net9.0\Velocidad de corredores.runtimeconfig.json
+C:\Users\erick\OneDrive\Programas onedrive\Velocidad de corredores\bin\Debug\net9.0\Velocidad de corredores.dll
+C:\Users\erick\OneDrive\Programas onedrive\Velocidad de corredores\bin\Debug\net9.0\Velocidad de corredores.pdb
+C:\Users\erick\OneDrive\Programas onedrive\Velocidad de corredores\obj\Debug\net9.0\Velocidad de corredores.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\erick\OneDrive\Programas onedrive\Velocidad de corredores\obj\Debug\net9.0\Velocidad de corredores.AssemblyInfoInputs.cache
+C:\Users\erick\OneDrive\Programas onedrive\Velocidad de corredores\obj\Debug\net9.0\Velocidad de corredores.AssemblyInfo.cs
+C:\Users\erick\OneDrive\Programas onedrive\Velocidad de corredores\obj\Debug\net9.0\Velocidad de corredores.csproj.CoreCompileInputs.cache
+C:\Users\erick\OneDrive\Programas onedrive\Velocidad de corredores\obj\Debug\net9.0\Velocidad de corredores.dll
+C:\Users\erick\OneDrive\Programas onedrive\Velocidad de corredores\obj\Debug\net9.0\refint\Velocidad de corredores.dll
+C:\Users\erick\OneDrive\Programas onedrive\Velocidad de corredores\obj\Debug\net9.0\Velocidad de corredores.pdb
+C:\Users\erick\OneDrive\Programas onedrive\Velocidad de corredores\obj\Debug\net9.0\Velocidad de corredores.genruntimeconfig.cache
+C:\Users\erick\OneDrive\Programas onedrive\Velocidad de corredores\obj\Debug\net9.0\ref\Velocidad de corredores.dll
